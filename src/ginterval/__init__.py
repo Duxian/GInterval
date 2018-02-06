@@ -92,7 +92,7 @@ class GInterval(object):
     @property
     def x(self):
         """
-
+        duxian
         :return: The x position (0-base included) of the interval instance.
         """
         return self._x
